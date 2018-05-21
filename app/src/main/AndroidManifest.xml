@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".DailyWheatherActivity" />
+        <activity android:name=".HourlyWeatherActivity" />
+        <activity android:name=".MinutelyweatherActivity"></activity>
     </application>
 
 </manifest>
